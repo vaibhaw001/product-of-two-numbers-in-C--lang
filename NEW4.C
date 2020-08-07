@@ -1,3 +1,5 @@
+// hello i'm trying by best to improve.please support me and avoid my mistakes
+//
 #include <stdio.h>
 void main()
 {
